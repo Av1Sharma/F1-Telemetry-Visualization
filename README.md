@@ -7,6 +7,9 @@ This project visualizes Formula 1 telemetry data using 3D plots in Python. The g
 - **Speed Visualization**: Color the path based on the speed of the car.
 
 ## Work in Progress:
+Example:
+![image](https://github.com/user-attachments/assets/032c96a8-4d7e-40e6-8831-6bfd4ebc5b78)
+
 - **Data Refinement**: The data processing part is still being refined for more accurate telemetry tracking.
 - **Animation**: Future plans include animating the car's movement over time for better visualization and analysis.
 
